@@ -1,0 +1,98 @@
+[   
+    {
+        "nombre": "Bolso LOLA", 
+        "id": 1, 
+        "valor":1000, 
+        "descripcion": "Bolso 2024 Exelente para el dia a dia", 
+        "imagen": "../images/Bolso1.png",
+        "categoria": "Bolsos"
+    },
+    {
+        "nombre": "Bolso RUBI", 
+        "id": 2, 
+        "valor":800, 
+        "descripcion": "Bolso 2024 Exelente para la noche", 
+        "imagen": "../images/Bolso2.png",
+        "categoria": "Bolsos"
+    },
+    {
+        "nombre": "Bolso DIOSA", 
+        "id": 3, 
+        "valor":750, 
+        "descripcion": "Bolso 2024 Exelente para el dia", 
+        "imagen": "../images/Bolso3.png",
+        "categoria": "Bolsos"
+    },
+    {
+        "nombre": "Cartera AURORA", 
+        "id": 4, 
+        "valor":950, 
+        "descripcion": "cartera 2024 AURORA", 
+        "imagen": "../images/Cartera1.png",
+        "categoria": "Carteras"
+    },
+    {
+        "nombre": "Cartera ESTOCOLMO", 
+        "id": 5, 
+        "valor":900, 
+        "descripcion": "cartera 2024  ESTOCOLMO", 
+        "imagen": "../images/Cartera2.png",
+        "categoria": "Carteras"
+    },
+    {
+        "nombre": "Cartera NIGHT", 
+        "id": 6, 
+        "valor":1000, 
+        "descripcion": "cartera 2024 NIGHT", 
+        "imagen": "../images/Cartera3.png",
+        "categoria": "Carteras"
+    },
+    {
+        "nombre": "Cartera APPLE GREEN", 
+        "id": 7, 
+        "valor":800, 
+        "descripcion": "cartera 2024  APPLE GREEN", 
+        "imagen": "../images/Cartera4.png",
+        "categoria": "Carteras"
+    },
+    {
+        "nombre": "Cartera RUBI", 
+        "id": 8, 
+        "valor":1800, 
+        "descripcion": "cartera 2024 RUBI ", 
+        "imagen": "../images/Cartera5.png",
+        "categoria": "Carteras"
+    },
+    {
+        "nombre": "Cartera WAVE", 
+        "id": 9, 
+        "valor":2350, 
+        "descripcion": "cartera 2024 WAVE", 
+        "imagen": "../images/Cartera6.png",
+        "categoria": "Carteras"
+    },
+    {
+        "nombre": "Cartera PICAZO", 
+        "id": 10, 
+        "valor":500, 
+        "descripcion": "cartera 2024  PICAZO", 
+        "imagen": "../images/Cartera7.png",
+        "categoria": "Carteras"
+    },
+    {
+        "nombre": "colección EUROPEA DISCO", 
+        "id": 11, 
+        "valor":400, 
+        "descripcion": "colección Europea cartera DISCO", 
+        "imagen": "../images/CE1.png",
+        "categoria": "Colleción Europea"
+    },
+    {
+        "nombre": "colección EUROPEA ITALY",
+        "id": 13, 
+        "valor": 800, 
+        "descripcion": "colección Europea cartera ITALY", 
+        "imagen": "../images/CE2.png",
+        "categoria": "Colleción Europea"
+    }
+]
